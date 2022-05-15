@@ -1,16 +1,16 @@
 [submodule "challenges/47/tui-tower-of-hanoi"]
-	path = challenges/47/tui-tower-of-hanoi
+	path = challenges/47/rust-nonl4331/tui-tower-of-hanoi
 	url = https://github.com/nonl4331/tui-tower-of-hanoi
 	branch = main
 [submodule "challenges/94/raytracing-rust"]
-	path = challenges/94/raytracing-rust
+	path = challenges/94/rust-nonl4331/raytracing-rust
 	url = https://github.com/nonl4331/raytracing-rust
 	branch = main
 [submodule "challenges/97/colour-palette"]
-	path = challenges/97/colour-palette
+	path = challenges/97/rust-nonl4331/colour-palette
 	url = https://github.com/nonl4331/colour-palette
 	branch = main
 [submodule "challenges/75/neural-network-mockup"]
-	path = challenges/75/neural-network-mockup
+	path = challenges/75/rust-nonl4331/neural-network-mockup
 	url = https://github.com/nonl4331/neural-network-mockup
 	branch = main
