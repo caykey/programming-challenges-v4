@@ -6,3 +6,7 @@
 	path = challenges/94/raytracing-rust
 	url = https://github.com/nonl4331/raytracing-rust
 	branch = main
+[submodule "challenges/97/colour-palette"]
+	path = challenges/97/colour-palette
+	url = https://github.com/nonl4331/colour-palette
+	branch = main
