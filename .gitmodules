@@ -2,3 +2,7 @@
 	path = challenges/47/tui-tower-of-hanoi
 	url = https://github.com/nonl4331/tui-tower-of-hanoi
 	branch = main
+[submodule "challenges/94/raytracing-rust"]
+	path = challenges/94/raytracing-rust
+	url = https://github.com/nonl4331/raytracing-rust
+	branch = main
