@@ -1,0 +1,4 @@
+[submodule "challenges/47/tui-tower-of-hanoi"]
+	path = challenges/47/tui-tower-of-hanoi
+	url = https://github.com/nonl4331/tui-tower-of-hanoi
+	branch = main
